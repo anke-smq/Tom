@@ -4,43 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3eb45fc2-92d1-4803-9a3e-1fe7d6d9fd5c" name="Default Changelist" comment="ss">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jc/jc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jc/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jc/src/main/java/com/example/jc/dao/BaseDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jc/src/main/java/com/example/jc/dao/JuriDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jc/src/main/java/com/example/jc/dao/ReplyDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jc/src/main/java/com/example/jc/dao/RoleDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jc/src/main/java/com/example/jc/dao/TitleDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jc/src/main/java/com/example/jc/dao/UserAndRoleDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jc/src/main/java/com/example/jc/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jc/src/main/java/com/example/jc/dao/ZongLeiDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jc/src/main/java/com/example/jc/dao/impl/JuriDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jc/src/main/java/com/example/jc/dao/impl/ReplyDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jc/src/main/java/com/example/jc/dao/impl/RoleDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jc/src/main/java/com/example/jc/dao/impl/TitleDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jc/src/main/java/com/example/jc/dao/impl/UserAndRoleDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jc/src/main/java/com/example/jc/dao/impl/UserDAoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jc/src/main/java/com/example/jc/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jc/src/main/java/com/example/jc/domain/Juri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jc/src/main/java/com/example/jc/domain/Reply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jc/src/main/java/com/example/jc/domain/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jc/src/main/java/com/example/jc/domain/Title.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jc/src/main/java/com/example/jc/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jc/src/main/java/com/example/jc/domain/UserAndRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jc/src/main/java/com/example/jc/domain/ZongLei.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jc/src/main/java/com/example/jc/service/LogInservice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jc/src/main/java/com/example/jc/service/impl/LogInServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jc/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jc/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maven.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3eb45fc2-92d1-4803-9a3e-1fe7d6d9fd5c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +88,23 @@
       <option name="presentableId" value="Default" />
       <updated>1609830185713</updated>
       <workItem from="1609830186896" duration="2519000" />
+      <workItem from="1609837364275" duration="303000" />
     </task>
+    <task id="LOCAL-00001" summary="ss">
+      <created>1609837415754</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609837415755</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ss">
+      <created>1609837655050</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609837655050</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
